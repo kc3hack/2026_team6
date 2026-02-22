@@ -1,13 +1,12 @@
 # プロダクト名 
-<!-- プロダクト名に変更してください -->
+Real You ~ 本当の私じゃだめですか？ ~
 
-![プロダクト名](https://kc3.me/cms/wp-content/uploads/2026/02/444e7120d5cdd74aa75f7a94bf8821a5-scaled.png)
-<!-- プロダクト名・イメージ画像を差し変えてください -->
+<img width="1920" height="1080" alt="RealYouLogo" src="https://github.com/user-attachments/assets/c9d42f4a-43b7-4fd0-bf52-ee4df04a3d4c" />
 
 
 ## チーム名
-チーム○ XXXX
-<!-- チームIDとチーム名を入力してください -->
+チーム6
+遅刻ラーメン
 
 
 ## 背景・課題・解決されること

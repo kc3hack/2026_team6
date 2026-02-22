@@ -59,7 +59,7 @@ Game 3：空気読
 
 
 ## 操作説明・デモ動画
-[デモ動画はこちら](https://youtu.be/yqQI1Z4WQOc)
+[デモ動画はこちら]([https://youtu.be/yqQI1Z4WQOc](https://www.youtube.com/watch?v=yqQI1Z4WQOc))
 
 
 ## 注力したポイント

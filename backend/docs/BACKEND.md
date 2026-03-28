@@ -89,10 +89,8 @@ src/
   "mbti": "ENTP",
   "baseline_answers": {
     "q1_caution": "A",
-    "q2_calmness": "D",
-    "q3_logic": "B",
-    "q4_cooperativeness": "C",
-    "q5_positivity": "A"
+    "q2_cooperativeness": "C",
+    "q3_positivity": "A"
   }
 }
 
@@ -170,17 +168,12 @@ src/
 
   // ゲームごとの個別スコア内訳
   "game_breakdown": {
-    "game_1": {
+    "swipe_game": {
       "caution": 35,
-      "calmness": 50
-    },
-    "game_2": {
+      "calmness": 50,
       "logic": 72,
-      "cooperativeness": 58
-    },
-    "game_3": {
-      "positivity": 73,
-      "calmness": 54
+      "cooperativeness": 58,
+      "positivity": 73
     }
   },
 
@@ -196,9 +189,9 @@ src/
 
   // 各ゲームフェーズの行動サマリーテキスト
   "phase_summaries": {
-    "phase_1": "利用規約フェーズでは、全項目を確認してから同意する慎重な行動が見られました。",
-    "phase_2": "カスタマーサポートフェーズでは、論理的に問題を整理しながら質問する傾向がありました。",
-    "phase_3": "グループチャットフェーズでは、発言前に他者の意見を読む観察型の行動パターンでした。"
+    "warmup": "ウォームアップフェーズでは、画像を慎重に観察してからスワイプする傾向が見られました。",
+    "main": "メインフェーズでは、迷いの少ない素早いスワイプで直感的な判断を行っていました。",
+    "pressure": "プレッシャーフェーズでは、時間制限下でもブレの少ない安定した操作が見られました。"
   }
 }
 ```

@@ -23,10 +23,8 @@ REGISTER_PAYLOAD='{
   "mbti": "INTJ",
   "baseline_answers": {
     "q1_caution": "A",
-    "q2_calmness": "D",
-    "q3_logic": "A",
-    "q4_cooperativeness": "C",
-    "q5_positivity": "B"
+    "q2_cooperativeness": "C",
+    "q3_positivity": "B"
   }
 }'
 

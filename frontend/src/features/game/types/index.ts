@@ -54,19 +54,6 @@ export type MeasurementAxis =
   | 'cooperativeness'
   | 'positivity';
 
-/** Configuration for a single round (read-only at runtime) */
-export interface RoundConfig {
-  /** 1-10 */
-  readonly roundNumber: number;
-  readonly phase: RoundPhase;
-  readonly imageUrl: string;
-  /** e.g., 'landscape', 'social', 'adventure' */
-  readonly imageCategory: string;
-  /** Time limit in seconds */
-  readonly timeLimit: number;
-  readonly targetAxes: readonly MeasurementAxis[];
-}
-
 /** Data recorded for a single completed round */
 export interface SwipeRoundData {
   readonly roundNumber: number;

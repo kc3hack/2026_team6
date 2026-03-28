@@ -115,33 +115,6 @@
                 }
             },
             "response": []
-        },
-        {
-            "name": "5. Voice Response",
-            "request": {
-                "method": "POST",
-                "header": [
-                    {
-                        "key": "Content-Type",
-                        "value": "application/json"
-                    }
-                ],
-                "body": {
-                    "mode": "raw",
-                    "raw": "{\n    \"message\": \"こんにちは！調子はどうですか？\",\n    \"scenario_type\": \"normal\"\n}"
-                },
-                "url": {
-                    "raw": "{{base_url}}/voice/respond",
-                    "host": [
-                        "{{base_url}}"
-                    ],
-                    "path": [
-                        "voice",
-                        "respond"
-                    ]
-                }
-            },
-            "response": []
         }
     ],
     "variable": [
